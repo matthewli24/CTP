@@ -1,0 +1,5 @@
+.store {
+    height: 700px;
+    display: flex;
+    background-image: url("../img/milkbg.jpg");
+}
