@@ -1,5 +1,23 @@
-.store {
-    height: 700px;
-    display: flex;
-    background-image: url("../img/milkbg.jpg");
+.header {
+    height: 550px;
+    width: 100%;
+    background: url("../img/milkbg.jpg") no-repeat;
+    background-size: 100% 100%;
 }
+
+.cookieStore {
+    height: 100%;
+    width: 100%;
+    align-items: center;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.title {
+    background: rgba(0, 0, 0, 0.6);
+    padding: 50px 50px;
+    
+}
+
